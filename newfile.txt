@@ -3,3 +3,5 @@ This is a new Text File for Commit.
 Add -> Commit -> Push
 
 Update New Files to be commited.
+
+New Changes to be committed and pulled to local repository
